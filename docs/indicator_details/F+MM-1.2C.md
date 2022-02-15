@@ -1,3 +1,9 @@
+---
+layout: default
+title: Indicator 2
+nav_order: 3
+---
+
 # F+MM-1.2C
 
 | Identifer | F+MM-1.2C |
