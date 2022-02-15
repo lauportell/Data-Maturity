@@ -10,4 +10,4 @@ F+MM-1.1C
 
 F+MM-1.2C
 
-.. mdinclude:: indicator_details/F+MM-1.1C.md
+.. mdinclude:: indicator_details/F+MM-1.2C.md
