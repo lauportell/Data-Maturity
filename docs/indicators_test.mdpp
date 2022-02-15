@@ -1,0 +1,9 @@
+---
+layout: default
+title: Indicators
+nav_order: 3
+---
+
+!INCLUDE "indicator_details/F+MM-1.1C.mdpp"
+!INCLUDE "indicator_details/F+MM-1.2C.mdpp"
+
